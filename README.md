@@ -1,3 +1,3 @@
 # Jogo da Memória!
 
-#### Bora programar moçada!
+#### Mais um passo para meu novo futuro!
